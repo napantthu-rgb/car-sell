@@ -13,11 +13,10 @@ return(
 <div className="max-w-6xl mx-auto flex justify-between">
 
 <Link href="/" className="font-bold text-xl">
-🚗 SPUKKCAR
 </Link>
 
 <Link href="/admin">
-ลงขายรถ
+ADMIN
 </Link>
 
 </div>
